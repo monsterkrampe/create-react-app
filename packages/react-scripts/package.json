@@ -1,6 +1,6 @@
 {
   "name": "@latviancoder/react-scripts",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "description": "Configuration and scripts for Create React App.",
   "repository": "latviancoder/create-react-app",
   "license": "MIT",
@@ -18,8 +18,7 @@
     "utils"
   ],
   "bin": {
-    "react-scripts": "./bin/react-scripts-ts.js",
-    "@latviancoder/react-scripts": "./bin/react-scripts-ts.js"
+    "react-scripts-ts": "./bin/react-scripts-ts.js"
   },
   "dependencies": {
     "autoprefixer": "7.1.6",
