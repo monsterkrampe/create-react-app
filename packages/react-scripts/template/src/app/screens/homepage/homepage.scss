@@ -1,0 +1,14 @@
+@import "~shared/styles/colors";
+
+.container {
+  min-height: 100vh;
+  background: $blue url('./images/logo.png') no-repeat center center;
+  padding-top: 100px;
+}
+
+.go-to-dashboard {
+  color: #fff;
+  font-size: 20px;
+  text-align: center;
+  display: block;
+}

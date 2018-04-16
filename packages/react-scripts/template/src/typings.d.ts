@@ -15,3 +15,7 @@ declare module '*.scss' {
     const classNames: IClassNames;
     export = classNames;
 }
+
+declare module 'react-router-scroll-4' {
+    export const ScrollContext: React.ComponentClass;
+}

@@ -1,0 +1,16 @@
+.button {
+  display: inline-flex;
+  align-items: center;
+  padding: 15px;
+  cursor: pointer;
+}
+
+.button--primary {
+  background: #6756ff;
+  color: #fff;
+}
+
+.button--danger {
+  background: #ff5f4a;
+  color: #fff;
+}

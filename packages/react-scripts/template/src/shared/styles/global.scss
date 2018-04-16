@@ -1,0 +1,17 @@
+@import "../../../node_modules/normalize.css/normalize.css";
+
+@import "colors";
+
+* {
+  box-sizing: border-box;
+  outline: none;
+}
+
+body {
+  font-family: Helvetica, sans-serif;
+}
+
+a {
+  color: $blue-light;
+  text-decoration: none;
+}
