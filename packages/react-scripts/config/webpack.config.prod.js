@@ -190,8 +190,8 @@ module.exports = {
                 loader: ExtractTextPlugin.extract(
                   Object.assign(
                     {
+                      fallback: require.resolve('style-loader'),
                       use: [
-                        require.resolve('style-loader'),
                         {
                           loader: require.resolve('css-loader'),
                           options: {
@@ -213,8 +213,8 @@ module.exports = {
                 loader: ExtractTextPlugin.extract(
                   Object.assign(
                     {
+                      fallback: require.resolve('style-loader'),
                       use: [
-                        require.resolve('style-loader'),
                         {
                           loader: require.resolve('css-loader'),
                           options: {
