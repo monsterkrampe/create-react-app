@@ -17,6 +17,9 @@
     "template",
     "utils"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "bin": {
     "react-scripts-ts": "./bin/react-scripts-ts.js"
   },
