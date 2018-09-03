@@ -1,14 +1,14 @@
 {
-  "name": "@latviancoder/react-scripts",
+  "name": "@monsterkrampe/react-scripts",
   "version": "1.1.8",
   "description": "Configuration and scripts for Create React App.",
-  "repository": "latviancoder/create-react-app",
+  "repository": "monsterkrampe/create-react-app",
   "license": "MIT",
   "engines": {
     "node": ">=6"
   },
   "bugs": {
-    "url": "https://github.com/latviancoder/create-react-app/issues"
+    "url": "https://github.com/monsterkrampe/create-react-app/issues"
   },
   "files": [
     "bin",
